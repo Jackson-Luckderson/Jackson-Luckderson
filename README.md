@@ -1,42 +1,26 @@
 
-## Installation
+Police d'ecriture Montserrat
+https://fonts.google.com/specimen/Montserrat?query=monts
 
-Install my-project with npm
+Police d'ecriture Abril
+https://fonts.google.com/specimen/Abril+Fatface?query=abril&sidebar.open&selection.family=Abril+Fatface
 
-```bash
-  npm install my-project
-  cd my-project
-```
-    
-# Project Title
+Couleurs utilisées:
 
+blanc: **#fff**
+blanc transparent: **#FFFFFFDF**
+vert clair: **#ADD981**
 
+Flaticon utilisés:
 
+icon scroll vers le bas : **fas-fa-angle-down**
+icon de magasin : **fas fa-store**
+icon retrait sans contact : **fas fa-people-carry**
+icon livraison : **faq fa-truck**
 
-## NatureEmoi
-## Acknowledgements
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-
-
-## FAQ
-
-#### Question 1
-
-Answer 1
-
-#### Question 2
-
-Answer 2
+Lien integration flaticon : 
+https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css
 
 
-## Features
-
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
 
 
