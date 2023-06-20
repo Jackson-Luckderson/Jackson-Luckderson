@@ -1,4 +1,8 @@
 
+police d'ecriture par defaut "Montserrat"
+http://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap
+
+
 Police d'ecriture Montserrat
 https://fonts.google.com/specimen/Montserrat?query=monts
 
@@ -13,10 +17,10 @@ vert clair: **#ADD981**
 
 Flaticon utilisés:
 
-icon scroll vers le bas : **fas-fa-angle-down**
+icon scroll vers le bas : **fas fa-angle-down**
 icon de magasin : **fas fa-store**
 icon retrait sans contact : **fas fa-people-carry**
-icon livraison : **faq fa-truck**
+icon livraison : **fas fa-truck**
 
 Lien integration flaticon : 
 https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css
