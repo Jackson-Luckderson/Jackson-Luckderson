@@ -7,7 +7,7 @@ Police d'ecriture Montserrat
 https://fonts.google.com/specimen/Montserrat?query=monts
 
 Police d'ecriture Abril
-https://fonts.google.com/specimen/Abril+Fatface?query=abril&sidebar.open&selection.family=Abril+Fatface
+https://fonts.googleapis.com/css2?family=Abril+FatFace&display=swap
 
 Couleurs utilisées:
 
